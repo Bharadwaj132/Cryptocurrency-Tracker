@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.crypto-data-container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 38px;
+  padding-right: 38px;
+}
+.name-logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 40px;
+  margin-right: 10px;
+}
+.crypto-text {
+  color: #ffffff;
+}
